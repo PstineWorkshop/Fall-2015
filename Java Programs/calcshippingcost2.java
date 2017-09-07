@@ -6,6 +6,7 @@ Your Name: Philip Stine
 Assignment # 3.18 Book Problem
 Due: 10/7/2015
 File name: ShippingCost.java
+method version
 ---------------------------------------------------------------------------------*/
 import java.util.Scanner;
 
