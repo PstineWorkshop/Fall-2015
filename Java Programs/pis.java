@@ -147,3 +147,44 @@ public static void main(String args[ ])
 
    
    }//end class
+
+
+/*----jGRASP exec: java pis
+
+ this program asks the user to enter a pis or personal identification Sring 
+ here are the rules: it must be exactly four characters in length
+ it must contain 1 uppercase letter
+ it must contain a lowercase 1 lowercase
+ it must contain a digit
+ no spaces 
+ enter your pis 
+Cab12
+ pis is invalid 
+ enter your pis 
+abcd
+ pis is invalid 
+ enter your pis 
+4567
+ pis is invalid 
+ enter your pis 
+2 Az
+ pis is invalid 
+ enter your pis 
+9To5
+ pis is accepted 
+
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java pis
+
+ this program asks the user to enter a pis or personal identification Sring 
+ here are the rules: it must be exactly four characters in length
+ it must contain 1 uppercase letter
+ it must contain a lowercase 1 lowercase
+ it must contain a digit
+ no spaces 
+ enter your pis 
+L84s
+ pis is accepted 
+
+ ----jGRASP: operation complete.*/
