@@ -1,3 +1,8 @@
+/*
+ The assigment is to take two arrays and put them togather.
+ The first array to be passed in has its elements go first followed by the next array's elements
+
+*/
 public class ConcatenateArrays
 {
 	public static void main(String[] args)
@@ -20,45 +25,30 @@ public class ConcatenateArrays
 		// -4 -4 0 -4 2 -4 -4 0 -4 2 9 15
 	}
 
-	public static int[] concatenateArrays(int[] a, int[] b)
-	{// start of method
+	public static int[] concatenateArrays(int[] a, int[] b){// start of method
 		int length=a.length+b.length;
       
-      int[] combo	=new int[length];
+      		int[] combo=new int[length];
+		int i;
+		int j;
+		//int x=a.length;
+		//int z=b.length;
+    		 int count=0;
       
-      int i;
-      
-      int j;
-      
-      int x=a.length;
-      
-      int z=b.length;
-      
-      int count=0;
-      
-       //if(a.length>b.length)
-        // {// start of if
-            for(i=0;i<length;i++)
-            {
-                combo[i]=a[i];                
-                count++;
-                if(count==a.length)
-                {
+       		//if(a.length>b.length)
+        	// {// start of if
+            	for(i=0;i<length;i++){
+              	 combo[i]=a[i];                
+                 count++;
+                 if(count==a.length){
                   i=length;
-                }
-            }
-        
-            for(i=0;i<b.length;i++)
-            {
-               
-               combo[x]=b[i];
-               ++x;
-               
-            
-            }
-          
-          
-              return combo;
+                 }
+           	}
+               for(i=0;i<b.length;i++) {
+       		combo[x]=b[i];
+                 ++x;
+     	       }
+           return combo;
     }// end of method
 
 	public static void printArray(int[] array)
