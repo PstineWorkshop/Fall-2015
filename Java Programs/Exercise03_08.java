@@ -2,10 +2,9 @@
 Semester: Fall
 Year: 2015
 Instructor: F.Porps
-Your Name: Dan Sblendorio
-Assignment # 3.18 Book Problem
-Due: 9/30/2015 
-File name: ShippingCost.java
+Your Name: Philip Stine
+Assignment # 3.8 Book Problem
+Write a program that prompts the user to enter three integers and display the integers in non-decreasing order
 ---------------------------------------------------------------------------------*/
 
 public class Exercise03_08 {
