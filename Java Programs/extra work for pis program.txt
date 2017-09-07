@@ -1,5 +1,0 @@
-  System.out.println("in slength() = "+slength(pis));
-  System.out.println("in uppercheck() = "+checkupper(pis));
-  System.out.println("in lowecheck() = "+checklower(pis));
-  System.out.println("in checkdigit() = "+checkdigit(pis));
-  System.out.println("in space() = "+checkspace(pis));
