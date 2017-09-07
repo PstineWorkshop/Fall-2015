@@ -1,0 +1,72 @@
+
+ ----jGRASP exec: java findingprime
+
+ enter a integer greater than zero or press Q to quit: 2
+2 is a prime number
+ enter a integer greater than zero or press Q to quit: 4
+4 is not a prime number
+ enter a integer greater than zero or press Q to quit: 7
+7 is a prime number
+ enter a integer greater than zero or press Q to quit: 9
+9 is not a prime number
+ enter a integer greater than zero or press Q to quit: 11
+11 is a prime number
+ enter a integer greater than zero or press Q to quit: 13
+13 is a prime number
+ enter a integer greater than zero or press Q to quit: 50
+50 is not a prime number
+ enter a integer greater than zero or press Q to quit: 562
+562 is not a prime number
+ enter a integer greater than zero or press Q to quit: 31
+31 is a prime number
+ enter a integer greater than zero or press Q to quit: 16
+16 is not a prime number
+ enter a integer greater than zero or press Q to quit: 34
+34 is not a prime number
+ enter a integer greater than zero or press Q to quit: 29
+29 is a prime number
+ enter a integer greater than zero or press Q to quit: 79
+79 is a prime number
+ enter a integer greater than zero or press Q to quit: 17
+17 is a prime number
+ enter a integer greater than zero or press Q to quit: 169
+169 is not a prime number
+ enter a integer greater than zero or press Q to quit: Q
+ your total sum is 1033 and it is a prime number
+
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java findingprime
+
+ enter a integer greater than zero or press Q to quit: -1
+ you entered a value less than or equal to zero
+ enter a value greater than 0 you have three chances 
+ enter a integer greater than zero or press Q to quit: -15
+ you entered a value less than or equal to zero
+ enter a value greater than 0 you have three chances 
+ enter a integer greater than zero or press Q to quit: 0
+ you entered a value less than or equal to zero
+ enter a value greater than 0 you have three chances 
+ enter a integer greater than zero or press Q to quit: -7
+
+ ----jGRASP: operation complete.
+
+
+ ----jGRASP exec: java findingprime
+
+ enter a integer greater than zero or press Q to quit: -1
+ you entered a value less than or equal to zero
+ enter a value greater than 0 you have three chances 
+ enter a integer greater than zero or press Q to quit: 0
+ you entered a value less than or equal to zero
+ enter a value greater than 0 you have three chances 
+ enter a integer greater than zero or press Q to quit: 23
+23 is a prime number
+ enter a integer greater than zero or press Q to quit: 42
+42 is not a prime number
+ enter a integer greater than zero or press Q to quit: Q
+ your total sum is 64 and it is not a prime number
+
+ ----jGRASP: operation complete.
+
+

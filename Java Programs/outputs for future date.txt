@@ -1,0 +1,160 @@
+
+ ----jGRASP exec: java pis
+
+ this program asks the user to enter a pis or personal identification Sring 
+ here are the rules: it must be exactly four characters in length
+ it must contain 1 uppercase letter
+ it must contain a lowercase 1 lowercase
+ it must contain a digit
+ no spaces 
+ enter your pis 
+Cab12
+ pis is invalid 
+ enter your pis 
+abcd
+ pis is invalid 
+ enter your pis 
+4567
+ pis is invalid 
+ enter your pis 
+2 Az
+ pis is invalid 
+ enter your pis 
+9To5
+ pis is accepted 
+
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java pis
+
+ this program asks the user to enter a pis or personal identification Sring 
+ here are the rules: it must be exactly four characters in length
+ it must contain 1 uppercase letter
+ it must contain a lowercase 1 lowercase
+ it must contain a digit
+ no spaces 
+ enter your pis 
+L84s
+ pis is accepted 
+
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java Futuredate
+
+ enter a date that will be evaluated if it is a date in the future here are the conditions 
+
+ 1: the day must be between 1 and 31
+ 2: the month must be between 1 and 12
+ 3: and the year must equal the current year or be highyer
+
+ enter the future month: 14
+ enter the future day: 12
+ enter the future year: 2020
+ invalid entry for month
+
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java Futuredate
+
+ enter a date that will be evaluated if it is a date in the future here are the conditions 
+
+ 1: the day must be between 1 and 31
+ 2: the month must be between 1 and 12
+ 3: and the year must equal the current year or be highyer
+
+ enter the future month: 9
+ enter the future day: 31
+ enter the future year: 2022
+ the day you put in does not match with your month 
+
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java Futuredate
+
+ enter a date that will be evaluated if it is a date in the future here are the conditions 
+
+ 1: the day must be between 1 and 31
+ 2: the month must be between 1 and 12
+ 3: and the year must equal the current year or be highyer
+
+ enter the future month: 15
+ enter the future day: 10
+ enter the future year: 2015
+ invalid entry for month
+
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java Futuredate
+
+ enter a date that will be evaluated if it is a date in the future here are the conditions 
+
+ 1: the day must be between 1 and 31
+ 2: the month must be between 1 and 12
+ 3: and the year must equal the current year or be highyer
+
+ enter the future month: 11
+ enter the future day: 31
+ enter the future year: 2015
+ the day you put in does not match with your month 
+
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java Futuredate
+
+ enter a date that will be evaluated if it is a date in the future here are the conditions 
+
+ 1: the day must be between 1 and 31
+ 2: the month must be between 1 and 12
+ 3: and the year must equal the current year or be highyer
+
+ enter the future month: 1
+ enter the future day: 28
+ enter the future year: 2015
+ the date: 1,28,2015 is not a date in the future 
+
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java Futuredate
+
+ enter a date that will be evaluated if it is a date in the future here are the conditions 
+
+ 1: the day must be between 1 and 31
+ 2: the month must be between 1 and 12
+ 3: and the year must equal the current year or be highyer
+
+ enter the future month: 7
+ enter the future day: 4
+ enter the future year: 2010
+ invalid entry for year
+
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java Futuredate
+
+ enter a date that will be evaluated if it is a date in the future here are the conditions 
+
+ 1: the day must be between 1 and 31
+ 2: the month must be between 1 and 12
+ 3: and the year must equal the current year or be highyer
+
+ enter the future month: 12
+ enter the future day: 29
+ enter the future year: 2015
+ the date: 12,29,2015 is a date in the future 
+
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java Futuredate
+
+ enter a date that will be evaluated if it is a date in the future here are the conditions 
+
+ 1: the day must be between 1 and 31
+ 2: the month must be between 1 and 12
+ 3: and the year must equal the current year or be highyer
+
+ enter the future month: 5
+ enter the future day: 29
+ enter the future year: 2016
+ the date: 5,29,2016 is a date in the future 
+
+ ----jGRASP: operation complete.

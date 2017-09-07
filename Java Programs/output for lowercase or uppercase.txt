@@ -1,0 +1,72 @@
+ ----jGRASP exec: java ischarcaptialorlowercase
+
+ enter a number for how many char to be evaluated
+6
+ enter a string letter 
+a
+a word is a lowercase letter 
+ enter a string letter 
+B
+B is an uppercase letter 
+ enter a string letter 
+c
+c word is a lowercase letter 
+ enter a string letter 
+D
+D is an uppercase letter 
+ enter a string letter 
+!
+! is not an alpha character 
+
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java ischarcaptialorlowercase
+
+ enter a number for how many char to be evaluated
+10
+ enter a string letter 
+A
+A is an uppercase letter 
+ enter a string letter 
+A
+A is an uppercase letter 
+ enter a string letter 
+A
+A is an uppercase letter 
+ enter a string letter 
+?
+? is not an alpha character 
+
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java ischarcaptialorlowercase
+
+ enter a number for how many char to be evaluated
+10
+ enter a string letter 
+b
+b word is a lowercase letter 
+ enter a string letter 
+l
+l word is a lowercase letter 
+ enter a string letter 
+r
+r word is a lowercase letter 
+ enter a string letter 
+d
+d word is a lowercase letter 
+ enter a string letter 
+3
+3 is not an alpha character 
+
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java ischarcaptialorlowercase
+
+ enter a number for how many char to be evaluated
+10
+ enter a string letter 
+&
+& is not an alpha character 
+
+ ----jGRASP: operation complete.
